@@ -1,6 +1,6 @@
 # QRForge 📷🔳
 
-## 🌍 Introduction | Introducción
+## 🌍 Introduction
 
 QRForge is a simple yet efficient tool for generating QR codes from URLs or any other textual data. It utilizes the `qrcode` library in Python and allows saving QR codes as image files for easy sharing or printing.
 
@@ -78,6 +78,7 @@ pytest -v
 </details>
 
 ---
+## 🌍 Introducción
 
 QRForge es una herramienta sencilla pero eficiente para generar códigos QR a partir de URLs o cualquier otro dato en texto. Utiliza la biblioteca `qrcode` en Python y permite guardar códigos QR como archivos de imagen para facilitar su uso o impresión.
 

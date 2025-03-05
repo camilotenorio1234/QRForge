@@ -1,32 +1,26 @@
-# PyQRGen 📷🔳
+# QRForge 📷🔳
 
 ## 🌍 Introduction | Introducción
 
-PyQRGen is a simple yet efficient tool for generating QR codes from URLs or any other textual data. It utilizes the `qrcode` library in Python and allows saving QR codes as image files for easy sharing or printing.
-
-PyQRGen es una herramienta sencilla pero eficiente para generar códigos QR a partir de URLs o cualquier otro dato en texto. Utiliza la biblioteca `qrcode` en Python y permite guardar códigos QR como archivos de imagen para facilitar su uso o impresión.
+QRForge is a simple yet efficient tool for generating QR codes from URLs or any other textual data. It utilizes the `qrcode` library in Python and allows saving QR codes as image files for easy sharing or printing.
 
 This README is available in both English and Spanish. Below, you will find two sections: one in English and another in Spanish, each containing the same detailed information about installation, usage, and testing.
 
-Este README está disponible en inglés y español. A continuación, encontrarás dos secciones: una en inglés y otra en español, cada una con la misma información detallada sobre instalación, uso y pruebas.
-
----
-
 <details>
-  <summary>PyQRGen 📷🔳 English</summary>
+  <summary>QRForge 📷🔳 English</summary>
 
-  # PyQRGen 📷🔳
+  # QRForge 📷🔳
 
 Easily generate QR codes using Python.
 
 ## 📌 Description
 
-PyQRGen is a tool that generates QR codes from URLs or textual data, allowing users to store and share information efficiently.
+QRForge is a tool that generates QR codes from URLs or textual data, allowing users to store and share information efficiently.
 
 ## 📁 Project Structure
 
 ```sh
-PyQRGen/
+QRForge/
 ├── data/                        # Folder to store generated QR codes
 │   ├── QR_example2.png          # Example QR code image
 ├── src/
@@ -83,21 +77,27 @@ pytest -v
 
 </details>
 
-<details>
-  <summary>PyQRGen 📷🔳 Español</summary>
+---
 
-# PyQRGen 📷🔳
+QRForge es una herramienta sencilla pero eficiente para generar códigos QR a partir de URLs o cualquier otro dato en texto. Utiliza la biblioteca `qrcode` en Python y permite guardar códigos QR como archivos de imagen para facilitar su uso o impresión.
+
+Este README está disponible en inglés y español. A continuación, encontrarás dos secciones: una en inglés y otra en español, cada una con la misma información detallada sobre instalación, uso y pruebas.
+
+<details>
+  <summary>QRForge 📷🔳 Español</summary>
+
+# QRForge 📷🔳
 
 Genera códigos QR fácilmente con Python.
 
 ## 📌 Descripción
 
-PyQRGen es una herramienta que genera códigos QR a partir de URLs o datos textuales, permitiendo almacenar y compartir información de manera eficiente.
+QRForge es una herramienta que genera códigos QR a partir de URLs o datos textuales, permitiendo almacenar y compartir información de manera eficiente.
 
 ## 📁 Estructura del Proyecto
 
 ```sh
-PyQRGen/
+QRForge/
 ├── data/                        # Carpeta para almacenar códigos QR generados
 │   ├── QR_example2.png          # Imagen de código QR de ejemplo
 ├── src/

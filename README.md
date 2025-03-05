@@ -38,8 +38,8 @@ QRForge/
 ## 📌 1. Clone the repository
 
 ```sh
-git clone [https://github.com/your_user/PyQRGen.git](https://github.com/camilotenorio1234/PyQRGen-/tree/main)
-cd PyQRGen
+git clone [https://github.com/camilotenorio1234/QRForge.git](https://github.com/camilotenorio1234/QRForge)
+cd QRForge
 ```
 
 ## 📌 2. Install dependencies
@@ -116,8 +116,8 @@ QRForge/
 ## 📌 1. Clonar el repositorio
 
 ```sh
-git clone [https://github.com/tu_usuario/PyQRGen.git](https://github.com/camilotenorio1234/PyQRGen-/tree/main)
-cd PyQRGen
+git clone [https://github.com/camilotenorio1234/QRForge.git](https://github.com/camilotenorio1234/QRForge)
+cd QRForge
 ```
 
 ## 📌 2. Instalar dependencias

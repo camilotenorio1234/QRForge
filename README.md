@@ -75,6 +75,34 @@ If you want more details:
 pytest -v
 ```
 
+Below are the results:
+
+```sh
+=============================================================== test session starts ================================================================ 
+platform win32 -- Python 3.9.19, pytest-8.3.4, pluggy-1.5.0
+rootdir: C:\Users\JuanC\OneDrive\Escritorio\codigos python\codigo en desarrollo\QRForge
+plugins: anyio-4.3.0, dash-2.16.1
+collected 3 items                                                                                                                                    
+
+src\test_qr_generator.py ...                                                                                                                  [100%] 
+
+================================================================ 3 passed in 0.12s =================================================================
+```
+```sh
+=============================================================== test session starts ================================================================
+platform win32 -- Python 3.9.19, pytest-8.3.4, pluggy-1.5.0 -- C:\Users\JuanC\anaconda3\envs\env_tesis_3_9\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\JuanC\OneDrive\Escritorio\codigos python\codigo en desarrollo\QRForge
+plugins: anyio-4.3.0, dash-2.16.1
+collected 3 items
+
+src/test_qr_generator.py::TestQRGenerator::test_ensure_directory_exists PASSED                                                                [ 33%] 
+src/test_qr_generator.py::TestQRGenerator::test_generate_qr_creates_file PASSED                                                               [ 66%]
+src/test_qr_generator.py::TestQRGenerator::test_generate_qr_returns_correct_path PASSED                                                       [100%] 
+
+================================================================ 3 passed in 0.11s =================================================================
+```
+
 </details>
 
 ---
@@ -151,6 +179,33 @@ Si quieres ver más detalles:
 
 ```sh
 pytest -v
+```
+A continuación, los resultados:
+
+```sh
+=============================================================== test session starts ================================================================ 
+platform win32 -- Python 3.9.19, pytest-8.3.4, pluggy-1.5.0
+rootdir: C:\Users\JuanC\OneDrive\Escritorio\codigos python\codigo en desarrollo\QRForge
+plugins: anyio-4.3.0, dash-2.16.1
+collected 3 items                                                                                                                                    
+
+src\test_qr_generator.py ...                                                                                                                  [100%] 
+
+================================================================ 3 passed in 0.12s =================================================================
+```
+```sh
+=============================================================== test session starts ================================================================
+platform win32 -- Python 3.9.19, pytest-8.3.4, pluggy-1.5.0 -- C:\Users\JuanC\anaconda3\envs\env_tesis_3_9\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\JuanC\OneDrive\Escritorio\codigos python\codigo en desarrollo\QRForge
+plugins: anyio-4.3.0, dash-2.16.1
+collected 3 items
+
+src/test_qr_generator.py::TestQRGenerator::test_ensure_directory_exists PASSED                                                                [ 33%] 
+src/test_qr_generator.py::TestQRGenerator::test_generate_qr_creates_file PASSED                                                               [ 66%]
+src/test_qr_generator.py::TestQRGenerator::test_generate_qr_returns_correct_path PASSED                                                       [100%] 
+
+================================================================ 3 passed in 0.11s =================================================================
 ```
 
 </details>
